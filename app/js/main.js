@@ -9,3 +9,4 @@
 var isCheked	= false,
 	isClose		= false;
 document.write(!isCheked || !isClose);
+document.body.style.backgroundColor = "red";
